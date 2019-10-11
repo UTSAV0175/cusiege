@@ -14,14 +14,56 @@ if((!isset($_SESSION['username'])))
      
      <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
         <link rel='icon' href='icon/favicon.ico' type='image/x-icon'>
-</head> 
-      <body>
-     
-      
-   <center>	
-		<embed src="L1.pdf" height="85%" width="100%" type="application/pdf"></embed><br><br>
-		<form action="lev1" target="_parent" method="post">
-			<input type="submit" id="button" value="Start">
-		</form></center>
-		</body>
-</html>
+#include<stdio.h>
+int main()
+
+{
+    int n,i;
+    scanf("%d",&n);
+    int prod=1;
+    for(i=2;i<n;i++)
+        prod=prod*i;
+    printf("factorial %d",prod);
+
+		     #include<stdio.h>
+int main()
+
+{
+    int n,i;
+    scanf("%d",&n);
+    int prod=1;
+    for(i=2;i<n;i++)
+        prod=prod*i;
+    printf("factorial %d",prod);
+
+		     #include<stdio.h>
+int main()
+
+{
+    int n,i;
+    scanf("%d",&n);
+    int prod=1;
+    for(i=2;i<n;i++)
+        prod=prod*i;
+    printf("factorial %d",prod);
+
+		     #include<stdio.h>
+int main()
+
+{
+    int n,i;
+    scanf("%d",&n);
+    int prod=1;
+    for(i=2;i<n;i++)
+        prod=prod*i;
+    printf("factorial %d",prod);
+#include<stdio.h>
+int main()
+
+{
+    int n,i;
+    scanf("%d",&n);
+    int prod=1;
+    for(i=2;i<n;i++)
+        prod=prod*i;
+    printf("factorial %d",prod);
